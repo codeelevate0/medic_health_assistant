@@ -11,3 +11,4 @@ To run the app, build the project in the Android directory and then you can then
 
 This is an open-source project work hence, permission is granted, free of charge, to any person to deal in without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute.
 
+
